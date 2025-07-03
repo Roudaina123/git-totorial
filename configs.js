@@ -1,2 +1,2 @@
 console.log('cnfig.js');
-console.log( 'version2');
+console.log( 'version3');
