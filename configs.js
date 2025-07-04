@@ -1,2 +1,2 @@
 console.log('cnfig.js');
-console.log( 'on7777');
+console.log( 'version 15');
